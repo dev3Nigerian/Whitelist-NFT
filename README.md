@@ -1,3 +1,3 @@
-#NFT Whitelist Dapp tutorial
+# NFT Whitelist Dapp tutorial
 
 Tutorial on creating an NFT Whitelist dApp
